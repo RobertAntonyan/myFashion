@@ -1,0 +1,44 @@
+.arrivals {
+    margin: 0 auto;
+    padding-top: 120px;
+    padding-bottom: 143px;
+}
+.container{
+    padding: 0 50px;
+    margin: 0 auto;
+}
+
+.arrivals_header {
+    margin-bottom: 45px;
+}
+
+.arrivals_cards {
+    display: flex;
+    justify-content: space-between;
+    column-gap: 30px;
+}
+
+.title-2 {
+    display: inline-block;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 1.04;
+    letter-spacing: 0.06em;
+    position: relative;
+}
+
+.title-2::after {
+    content: '';
+    position: absolute;
+    z-index: -1;
+    top:10px;
+    right: 0px;
+    bottom: 0px;
+    width: 215px;
+    height: 32px;
+    background-image: url('../../Images/icons/decor-yellow.svg');
+    background-position: 20px 10px;
+    background-size: auto;
+    background-repeat: no-repeat;
+
+}

@@ -1,0 +1,116 @@
+.sale {
+    width: 1920px;
+    height: 968px;
+    display: flex;
+    margin: 0 auto;
+}
+
+.img {
+    width: 991px;
+    height: 968px;
+}
+
+.salecontent {
+    width: 932.94px;
+    height: 968px;
+    background: linear-gradient(1deg, #E0C340 0.13%, #DFC23E 3.97%, #E1C441 7.2%, #E3C743 10.13%, #E4C542 12.98%, #E6C744 15.99%, #E7C845 19.52%, #E5C643 23.96%, #E6C945 30.43%, #E3C743 36.49%, #E9CA48 42.49%, #EDCE49 49.35%, #F0D44C 55.42%, #F4D84F 61.43%, #F6DA52 65.74%, #F7DB53 72.23%, #F9DD55 77.43%, #F9DF56 83.84%, #FAE157 91.52%, #F9DF56 97.87%);
+}
+
+.payday {
+    padding-left: 90px;
+    padding-top: 140px;
+    padding-right: 249px;
+    position: relative;
+}
+
+.payday h2 {
+    position: absolute;
+    color: #000;
+    font-size: 111px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 137px;
+    z-index: 1;
+}
+
+.span_text {
+    display: inline-block;
+}
+
+.salehighlight {
+    width: 541px;
+    height: 130px;
+    transform: rotate(-2.004deg);
+    position: absolute;
+    top: 235px;
+    left: 63px;
+    background: #FFF;
+
+}
+
+.sale_p {
+    width: 643px;
+    height: 90px;
+    padding-left: 90px;
+    padding-top: 360px;
+}
+
+.sale_p p {
+    color: #231300;
+    font-family: Poppins;
+    font-size: 36.04px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 42px;
+    letter-spacing: -0.721px;
+}
+
+.sale_date {
+    width: 493px;
+    height: 87px;
+    margin-left: 86px;
+    margin-top: 80px;
+
+}
+
+.date {
+    width: 428px;
+    color: #000;
+    font-size: 36px;
+    font-weight: 900;
+    line-height: 0px;
+    letter-spacing: 0.721px;
+}
+
+.terms {
+    width: 491px;
+    color: #000;
+    font-size: 36px;
+    font-weight: 400;
+    letter-spacing: -0.721px;
+
+}
+
+.button {
+    width: 265px;
+    height: 95px;
+    border-radius: 8.138px;
+    background: #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 86px;
+    margin-top: 50px;
+}
+
+
+.shop {
+    text-decoration: none;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 0.56px;
+}
