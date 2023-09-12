@@ -43,13 +43,14 @@
 }
 .join_form{
     margin-top: 49px;
+    position: relative;
 }
 
 .join_form input {
     width: 574px;
     height: 87px;
     border-radius: 7px;
-    position: relative;
+    
 }
 
 ::placeholder {
@@ -80,7 +81,7 @@
     letter-spacing: 0.99px;
     text-transform: capitalize;
     position: absolute;
-    right: 735px;
+    right: 0px;
     z-index: 2;
-    bottom: -5186px;  
+    bottom: 10px;  
 }
